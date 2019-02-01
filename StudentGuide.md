@@ -1,6 +1,6 @@
 <img class="float-right" src="images/j2c-logo.png">
 
-# Oracle  Integration Cloud (OIC) Development Workshop Prerequisites
+# Oracle Integration Cloud (OIC) Development Workshop Prerequisites
 
 ## Required 3rd Party Testing Tools
 
