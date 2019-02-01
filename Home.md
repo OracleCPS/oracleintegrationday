@@ -17,13 +17,13 @@ This workshop will focus on the following solution capabilities within Oracle Au
 - Oracle Process Automation Capability with an easy, visual, low-code process automation platform that simplifies day to day tasks by getting employees, customers, and partners the services they need to work anywhere, anytime, and on any device
 - Oracle Visual Builder Capability to rapidly create and host engaging business applications with a visual development environment right from the comfort of your browser. 
 
-## About OIC:
+## About OIC
 
 Oracle Integration Cloud (OIC) brings together all the critical capabilities of a complete Application Integration, Process Automation, Visual Application Building and Integration Analytics solution into a single unified cloud service. Oracle Integration Cloud now brings real-time and batch based integration, structured and unstructured processes, case management, stream analytics, zero code integration insight etc, allowing customers to service all their end to end integration needs in one cohesive platform so that all users can now transition and collaborate across these capabilities and projects seamlessly.
 
 ![](images/oic.png)
 
-### Oracle Integration Cloud Features
+## Oracle Integration Cloud Features
 
 - Integrate Applications - Deliver integrations up to 6X faster with pre-built adapters for your SaaS and on-premises systems.
 
