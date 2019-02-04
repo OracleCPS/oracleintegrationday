@@ -4,7 +4,7 @@
 
 ## Required 3rd Party Testing Tools
 
-### Install Postman
+### Install Postman Client
 
 We will use Postman to test 
 
