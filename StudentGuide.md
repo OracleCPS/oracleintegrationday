@@ -19,6 +19,21 @@ To install Postman for testing the API Developement follow these instructions:
 
 - Select "Download the App" from the home page
 
+### Install Restlet Client
+
+Another option to test integration is by using Restlet Client add-on in Chrome.
+
+If you don’t have the add-on already installed, you will have to install it in Chrome or Firefox browser.
+
+To install Restlet Client in Google Chrome for testing API development follow these instructions:
+
+- Install the add-on from the URL:
+<https://chrome.google.com/webstore/detail/restlet-client-rest-api-t/aejoelaoggembcahagimdiliamlcdmfm?hl=en/>
+
+![](images/studentguide/install_restlet.png)
+
+- Click on ‘Add to Chrome’ button to start installation.
+
 ![](images/studentguide/postmanImage02.png)
 
 -  Select the platform that correlates to your machine
