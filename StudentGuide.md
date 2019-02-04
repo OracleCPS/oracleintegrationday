@@ -30,7 +30,7 @@ To install Restlet Client in Google Chrome for testing API development follow th
 - Install the add-on from the URL:
 <https://chrome.google.com/webstore/detail/restlet-client-rest-api-t/aejoelaoggembcahagimdiliamlcdmfm?hl=en/>
 
-![](images/studentguide/install_restlet.png)
+![](images/300/install_restlet.png)
 
 - Click on ‘Add to Chrome’ button to start installation.
 
