@@ -27,7 +27,13 @@
                 "filename": "ics300.md",
                 "title": "Online Shopping Integration Flow Development",
                 "description": "In this Lab we are going to take a sample integration flow and add additional components to finish the flow."
-            }         
+            },
+            {
+              "number": "400",
+              "filename": "ics300_testing.md",
+              "title": "Online Shopping Integration Flow Development",
+              "description": "In this Lab we will be testing the integration."
+            }
         ]
     }
 }
