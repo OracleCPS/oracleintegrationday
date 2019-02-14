@@ -49,6 +49,12 @@ To install Restlet Client in Google Chrome for testing API development follow th
 
 ## Supported Browsers
 
-Most modern browsers including Chrome, Safari, Internet Explorer, Edge and Firefox are supported.
+Most modern browsers including Chrome, Safari, Internet Explorer, Edge and Firefox are supported. 
 
 ![](images/browsers.jpeg)
+
+
+For this workshop, use Chrome or Firefox
+
+![](images/firefoxandchrome.jpg)
+

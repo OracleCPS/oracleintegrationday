@@ -18,21 +18,15 @@
             },
             {
                 "number": "100",
-                "filename": "ics100.md",
-                "title": "Workshop Setup: Loading Workshop Integration Artifacts",
-                "description": "This lab provide instructions on how to load the integration flows required to run this workshop."
-            },
-            {
-                "number": "300",
                 "filename": "ics300.md",
                 "title": "Online Shopping Integration Flow Development",
                 "description": "In this Lab we are going to take a sample integration flow and add additional components to finish the flow."
             },
             {
-              "number": "400",
-              "filename": "ics300_testing.md",
-              "title": "Testing Integrations",
-              "description": "In this Lab we will be testing the integration."
+                "number": "300",
+                "filename": "ics100.md",
+                "title": "Workshop Setup: Loading Workshop Integration Artifacts",
+                "description": "This lab provide instructions on how to load the integration flows required to run this workshop."
             }
         ]
     }
