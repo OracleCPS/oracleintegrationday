@@ -34,7 +34,7 @@ Oracle Integration Cloud (OIC) brings together all the critical capabilities of 
 - Gain Insight - Gain real-time insight into end-to-end processes with guidance on best next steps for your business operational excellence and run massively parallel real-time analytics on streaming data for instant actionable insights. 
 
 ## Hands-on Lab Overview
-This hands-on lab will allow participants to clone a sample integration flow and add 2 conditional branches. They will activate the flow and Test using a REST Client (i.e., Postman)
+ **Lab 1** This hands-on lab will allow participants to clone a sample integration flow and add 2 conditional branches. They will activate the flow and Test using a REST Client (i.e., Postman)
 
 The OIC integration that we'll be working with is shown in the following picture:
 
@@ -47,6 +47,12 @@ Here is a description of what is happening with this integration:
 A sample (half completed) integration flow will be provided for workshop participants to clone. Participants will make their cloned integration flow unique by adding their initials as prefix or suffix to the Cloned integration flow name. Participants will complete the integration flow and test the REST API with Postman. 
 
 The integration flow uses other integration flows simulating *credit card validation*, *order payment* and *order shipment*. These other integration flows are exposed as REST API calls and provide examples of leveraging common integration flow components within OIC.
+
+**Lab 2** This hands-on lab will allow participants to use the Process Automation capability with in OIC to implement a Business Process that will be triggered for Reject/Approve orders from online shopping API call.
+
+The OIC integration for Process Automation that we'll be working with is shown in the following picture:
+
+![](images/500/img27_11.png)
 
 ## Get Started: 
 Open the navigation menu using the hamburger icon in the upper left of the menu bar to choose a lab guide and get started.
