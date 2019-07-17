@@ -22,6 +22,12 @@
                 "title": "Online Shopping Integration Flow Development",
                 "description": "In this Lab we are going to take a sample integration flow and add additional components to finish the flow."
             },
+			{
+                "number": "400",
+                "filename": "ics400.md",
+                "title": "Online Shopping Integration Flow Development",
+                "description": "In this Lab we are going to take a sample integration flow and add additional components to finish the flow."
+            },
             {
                 "number": "300",
                 "filename": "ics100.md",
